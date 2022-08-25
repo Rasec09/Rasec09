@@ -1,5 +1,6 @@
 ### Competitive Programming
 ![](https://raw.githubusercontent.com/Rasec09/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RasecBadguy?theme=dark&font=Abel&ext=contest)
 <!--
 **Rasec09/Rasec09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
