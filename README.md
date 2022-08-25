@@ -1,10 +1,11 @@
 ### Competitive Programming
 <p float="left">
-<a href="https://leetcard.jacoblin.cool/RasecBadguy?theme=dark&font=Abel&ext=contest">
   <img height="273em" src="https://raw.githubusercontent.com/Rasec09/cf-stats/main/output/light_card.svg#gh-dark-mode-only" a="#"/>
-</a>
-<img height="280em" src="https://leetcard.jacoblin.cool/RasecBadguy?theme=dark&font=Abel&ext=contest" />
+  <a href="https://leetcard.jacoblin.cool/RasecBadguy?theme=dark&font=Abel&ext=contest">
+    <img height="280em" src="https://leetcard.jacoblin.cool/RasecBadguy?theme=dark&font=Abel&ext=contest" />
+  </a>
 </p>
+
 <!--
 **Rasec09/Rasec09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
