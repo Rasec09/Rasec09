@@ -1,4 +1,5 @@
-### Hi there
+### Competitive Programming
+![](https://raw.githubusercontent.com/Rasec09/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 <!--
 **Rasec09/Rasec09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/Rasec09/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
